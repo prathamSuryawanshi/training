@@ -1,2 +1,6 @@
 I have added new changes
+<<<<<<< HEAD
 second line
+=======
+Second line added.
+>>>>>>> 53bd0cb38c42880723d9cd6bb742a263c47567fe
